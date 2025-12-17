@@ -1,0 +1,8 @@
+Agile Workflow Using Trello
+
+1. User stories are created in the Product Backlog.
+2. Sprint planning moves selected stories to the Sprint Backlog.
+3. Each user story is broken into smaller tasks.
+4. Tasks move through To Do, In Progress, Testing/Review, and Done.
+5. Priority labels and due dates are used for tracking.
+6. Completed tasks are reviewed and closed.
